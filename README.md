@@ -16,6 +16,6 @@ Seeking an opportunity in an organization which allows me to professionally util
 ![](https://github-profile-trophy.vercel.app/?username=Abhiram-Mithur&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abhiram-Mithur&icon=3&color=1)]
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
