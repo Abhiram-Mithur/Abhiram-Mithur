@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Html,CSS,Javascript**
 
-- 📝 I regularly write articles on [www.definegenetics.blogspot.com](www.definegenetics.blogspot.com)
+- 📝 I write articles on [www.definegenetics.blogspot.com](www.definegenetics.blogspot.com)
 
 - 💬 Ask me about **Core Java,HTML,CSS**
 
