@@ -5,7 +5,7 @@
 
 - 📝 I write articles on [My website](https://definegenetics.blogspot.com/)
 
-- 💬 Ask me about **Core Java,HTML,CSS**
+- 💬 Ask me about **Core Java,HTML,CSS,JavaScript**
 
 - 📫 How to reach me **abhiram.mithur@gmail.com**
 
