@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhiram Mithur</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🌱 I’m currently learning **Html,CSS,Javascript**
+- 🌱 I’m currently learning **Html,CSS,Javascript,MongoDB,Java,ExpressJS,NodeJS**
 
 - 📝 I write articles on [My website](https://definegenetics.blogspot.com/)
 
